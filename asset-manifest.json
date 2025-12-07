@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/MDB2UPDATED/static/css/main.e21e6685.css",
+    "main.js": "/MDB2UPDATED/static/js/main.bc9855dc.js",
+    "index.html": "/MDB2UPDATED/index.html",
+    "main.e21e6685.css.map": "/MDB2UPDATED/static/css/main.e21e6685.css.map",
+    "main.bc9855dc.js.map": "/MDB2UPDATED/static/js/main.bc9855dc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e21e6685.css",
+    "static/js/main.bc9855dc.js"
+  ]
+}
